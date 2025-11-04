@@ -21,14 +21,11 @@ The system features innovative navigation modes like **Focus Navigation** for "s
 * **External App Launcher:** The "Moving Stuff" navigation mode now functions as a launcher for the external **EEG/ECG Visualizer** (`both heart and brain.py`).
 * **Utility Tools:** Includes standard functions like dataset management (toggle, remove, clear all), view reset, and high-resolution screenshot capture.
 
-## 📋 Requirements
+ # Requirements
+```
+pip install -r requirements.txt
+```
 
-To run this application, you will need the following Python libraries:
-
-* **Python 3.x**
-* **PyQt5** (`pip install PyQt5`)
-* **VTK** (`pip install vtk`)
-* **NumPy** (`pip install numpy`)
 
 For the "Moving Stuff" feature to work, you must have the `both heart and brain.py` script in the same directory as this application.
 
@@ -94,3 +91,15 @@ The "Moving Stuff" button is now a launcher.
 1.  Select **"Moving Stuff"** from the "Navigation Technique" dropdown.
 2.  This will immediately launch the `both heart and brain.py` application in a new window (as long as the file is in the same directory).
 3.  The visualization app's controls will revert to your previous navigation setting.
+  # CONTRIBUTERS
+[@mhmdhamddyy](https://github.com/mohamedhamdy9707-byte) 
+
+ 
+
+[ebrahimnas577](https://github.com/ebrahimnas577) 
+# Under the Supervision of
+Prof. Dr. Tamer Basha
+
+
+Eng. Alaa Tarek
+
