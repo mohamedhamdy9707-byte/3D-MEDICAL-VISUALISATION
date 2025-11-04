@@ -91,6 +91,26 @@ The "Moving Stuff" button is now a launcher.
 1.  Select **"Moving Stuff"** from the "Navigation Technique" dropdown.
 2.  This will immediately launch the `both heart and brain.py` application in a new window (as long as the file is in the same directory).
 3.  The visualization app's controls will revert to your previous navigation setting.
+![]( https://github.com/mohamedhamdy9707-byte/3D-MEDICAL-VISUALISATION/blob/main/assets/Screenshot%202025-11-04%20180150.png )
+<div align="center">
+</div>
+
+ ![](https://github.com/mohamedhamdy9707-byte/3D-MEDICAL-VISUALISATION/blob/main/assets/Screenshot%202025-11-04%20180233.png )
+<div align="center">
+</div>
+ 
+ ![](https://github.com/mohamedhamdy9707-byte/3D-MEDICAL-VISUALISATION/blob/main/assets/Screenshot%202025-11-04%20180255.png) 
+<div align="center">
+</div>
+![](https://github.com/mohamedhamdy9707-byte/3D-MEDICAL-VISUALISATION/blob/main/assets/Screenshot%202025-11-04%20180904.png)  
+<div align="center">
+</div>
+ ![](https://github.com/mohamedhamdy9707-byte/3D-MEDICAL-VISUALISATION/blob/main/assets/Screenshot%202025-11-04%20182857.png) 
+<div align="center">
+</div>
+
+# Requirements
+   
   # CONTRIBUTERS
 [@mhmdhamddyy](https://github.com/mohamedhamdy9707-byte) 
 
